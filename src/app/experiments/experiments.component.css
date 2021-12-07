@@ -1,0 +1,15 @@
+h3 {
+  color: rgb(60, 60, 148);
+  text-align: center;
+}
+
+ul {
+  border: solid;
+  border-width: 3px;
+  border-color: crimson;
+}
+
+li {
+  margin: 3px;
+  padding: 5px;
+}

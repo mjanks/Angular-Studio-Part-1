@@ -1,0 +1,17 @@
+div {
+  background-color: bisque;
+  border: solid;
+  border-width: 5px;
+  border-color: rgb(247, 106, 6);
+  text-align: center;
+}
+
+h1 {
+  color: cadetblue;
+}
+
+h1,
+h3 {
+  margin: 7px;
+  padding: 10px;
+}

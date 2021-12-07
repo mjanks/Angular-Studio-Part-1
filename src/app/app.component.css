@@ -1,4 +1,10 @@
 .box {
   display: flex;
+  flex-direction: row;
+  justify-content: space-around;
   padding: 10px;
+  background-color: rgb(204, 204, 138);
+  border: solid;
+  border-color: rgb(3, 61, 28);
+  border-width: 5px;
 }
